@@ -16,21 +16,21 @@ sidebar_category:
   - title: ML
     children:
       - title: "머신러닝"
-        url: ML/
+        url: /categories/ML/
         category: "ML"
   - title: DL
     children:
       - title: "딥러닝"
-        url: DL/
+        url: /categories/DL/
         category: "DL"
   - title: Project
     children:
      - title: "공모전"
-       url: project/
+       url: /categories/project/
        category: "project"
 
   - title: Etc
     children:
       - title: "Github Blog"
-        url: etc/
+        url: /categories/etc/
         category: "etc"
