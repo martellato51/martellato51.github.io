@@ -17,17 +17,17 @@ sidebar_category:
     children:
       - title: "머신러닝"
         url: /categories/ml
-        category: "ML"
-  - title: DL
-    children:
-      - title: "딥러닝"
-        url: /categories/dl
-        category: "DL"
-  - title: Project
-    children:
-     - title: "공모전"
-       url: /categories/project
-       category: "project"
+        category: "ml"
+  # - title: DL
+  #   children:
+  #     - title: "딥러닝"
+  #       url: /categories/dl
+  #       category: "dl"
+  # - title: Project
+  #   children:
+  #    - title: "공모전"
+  #      url: /categories/project
+  #      category: "project"
 
   - title: Etc
     children:

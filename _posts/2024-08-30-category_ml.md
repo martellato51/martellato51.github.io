@@ -4,7 +4,7 @@ title:  "카테고리 분류 위한 테스트 페이지"
 excerpt: "카테고리 작동확인을 위한 테스트페이지"
 
 categories:
-  - ML
+  - ml
 tags:
   - [Github, Git]
 
