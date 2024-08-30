@@ -442,6 +442,11 @@
 
   a {
     color: inherit;
+    
+    // 카테고리 항목 호버링 시 밑줄 추가 
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   .active {
