@@ -28,8 +28,8 @@
         <span class="nav__sub-title">DL</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "cs231n" %}
-                        <li><a href="/categories/cs231n" class="">cs231n ({{category[1].size}})</a></li>
+                    {% if category[0] == "EECS498" %}
+                        <li><a href="/categories/EECS498" class="">EECS 498 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
